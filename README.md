@@ -12,5 +12,5 @@ Endpunkte der API:
 ## Frontend
 Der Code für das Frontend befindet sich im Ordner api-frontend.zip
 Im Ordner muss zuerst
-````npm -i```` ausgeführt werden um die node_modules zu erstellen.
+````npm install```` ausgeführt werden um die node_modules zu erstellen.
 Danach kann das Frontend mit ````ng serve```` gestartet werden und ist unter ````localhost:4200```` erreichbar.
